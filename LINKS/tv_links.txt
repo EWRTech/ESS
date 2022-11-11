@@ -1,7 +1,12 @@
-IPTV Links (Some examples):
+Here's some IPTV websites, you can copy the link of the channel you are interested in.
 https://iptvcat.com
 https://dailyfreeiptvlist.com
 
+You can also lookup online for IP TV links.
+
+
+
+# Some examples:
 
 AFV Family
 https://list.iptvcat.com/my_list/s/e14fc8a0d5556adf23079ca6f4818c08.m3u8
