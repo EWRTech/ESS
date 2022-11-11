@@ -1,21 +1,13 @@
 Radio & Podcast Links:
 
+
+# Open one of these links and copy the radio like you are interested in:
+
 https://www.internet-radio.com/
 https://radio.net/
 https://onlineradiobox.com/
 https://en.wikipedia.org/wiki/List_of_Internet_radio_stations
 
 
-
-Some examples:
-
-Classical:
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us5.internet-radio.com:8201/listen.pls&t=.m3u
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8074/listen.pls&t=.pls
-
-80s Music
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8443/listen.pls&t=.m3u
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8093/listen.pls&t=.pls
-
-Country:
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8035/listen.pls&t=.m3u
+# Example:
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
