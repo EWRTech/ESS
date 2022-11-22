@@ -1,7 +1,7 @@
-Radio & Podcast Links:
+ESS - Audio Slide:
 
-
-# Open one of these links and copy the radio like you are interested in:
+You can find the radio or podcast link you are interested in online.
+The followings are some of the websites you can copy the links from:
 
 https://www.internet-radio.com/
 https://radio.net/
@@ -9,5 +9,6 @@ https://onlineradiobox.com/
 https://en.wikipedia.org/wiki/List_of_Internet_radio_stations
 
 
-# Example:
+# Example BBC radio station:
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
+
