@@ -5,7 +5,7 @@ Video slide supports:
 - YouTube links, and other popular Video websites.
 - IP-TV
 - IP Camera
-- Any file format
+- Any video file format
 
 --------------------------------------------------
 
